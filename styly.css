@@ -1,0 +1,151 @@
+body {
+    font-family: Verdana;
+    margin: 0px;
+}
+h2 {
+    color: black;
+    font-family: Arial;
+    margin-top: 0px;
+}
+address {
+    font-family: "Courier New";
+}
+a {
+    color: #cc6600;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+header {
+    background-image: url(obrazky/header-bg.jpg);
+    padding: 0 10px 5px 10px;
+    height: 90px;
+}
+
+header h1 {
+    color: orange;
+    font-size: 3.5em;
+    text-transform: uppercase;
+    margin: 0px;
+    float: left;
+    width: 40%;
+}
+
+header img {
+    float:left;
+    width: 167px;
+    padding-top: 10px;
+}
+
+header div {
+    color: #FFF;
+    font-size: 1.5em;
+    float:left;
+    width: calc(60% - 167px);
+    text-align: right;
+    padding-top: 10px;
+}
+
+nav {
+    background-color: #FFE4C4;
+    border-bottom: 1px solid black;
+    padding: 1em;
+    clear: left;
+}
+nav a {
+    color: gray;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 1em;
+}
+nav a:hover {
+    background-color: #ff9900;
+    text-decoration: none;
+}
+
+section {
+    padding: 10px;
+}
+section article {
+    border: 1px solid #d4d4d4;
+    padding: 0 10px;
+    float: left;
+    width: calc((100% - 20px - 4*20px) / 4);
+		min-width: 250px;
+    height: 250px;
+}
+section article:hover {
+    background-color: rgba(232, 232, 232, 0.8);
+}
+section article h3 {
+	margin-top: 0;
+	margin-bottom: 0.5em;
+}
+
+aside {
+    text-align: center;
+    background-color: #f5f6f7;
+    border: 3px ridge orange;
+    margin-top: 10px;
+    padding: 10px;
+    clear: left;
+}
+
+#galeria img {
+    border: 1px solid black;
+}
+
+#galeria div {
+    float: left;
+    width: 50%;
+}
+
+footer {
+    color: #000;
+    background-color: #ff9900;
+    padding: 10px;
+    clear: left;
+		clear: both;
+}
+footer p {
+    margin-bottom: 0px;
+    clear: left;
+}
+.adresa {
+    float: left;
+    width: 40%;
+}
+#social {
+    float:left;
+    width: 20%;
+}
+
+#kosik_nav {
+	float: right;
+}
+form.form_kosik {
+	text-align: right;
+	margin-top: 0.5em;
+	float: right;
+	clear: right;
+}
+.odosli_male {
+	font-size: 1.2em;
+	width: 3em;
+	background-color: lightgreen;
+	border: 2px solid lightgreen;
+	border-radius: 3px;
+	padding: 2px 0.5em;
+	margin-bottom: 5px;
+}
+.odosli_velke {
+	font-size: 1.2em;
+	width: 12em;
+	background-color: lightgreen;
+	border: 2px solid lightgreen;
+	border-radius: 3px;
+	padding: 2px 0.5em;
+	margin-bottom: 5px;
+}
