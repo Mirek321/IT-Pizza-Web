@@ -8,7 +8,6 @@
   <h1>Alergény</h1>
   <ol>
 	<li>Obilniny obsahujúce lepok (t.j. pšenica, raž, jačmeň, ovos, špalda, kamut alebo ich hybridne odrody)</li>
-	<li>Kôrovce a výrobky z nich</li>
 	<li>Vajcia a výrobky z nich</li>
 	<li>Ryby a výrobky z nich</li>
 	<li>Arašidy a výrobky z nich</li>
