@@ -43,6 +43,3 @@ This project is open for contributions. If you have any suggestions or want to a
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
-
-- Special thanks to [Your Inspiration Source].
