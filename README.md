@@ -6,7 +6,9 @@ This is a simple IT Pizza website project created as a part of [Your Name]'s por
 
 - **Menu**: View a list of available pizzas with their descriptions and prices.
 - **Order Placement**: Place orders for pizzas by selecting desired items from the menu.
-- **Contact Form**: Contact the restaurant using a simple contact form.
+- **Reservation**: Reserve tables at the restaurant for dining in.
+- **Job Openings**: View current job openings at the restaurant.
+- **Gallery**: Browse a gallery of pizza images.
 
 ## Technologies Used
 
@@ -28,10 +30,10 @@ To get a local copy of this project up and running, follow these steps:
 
 ## Usage
 
-- Browse the menu to view available pizzas.
-- Select pizzas and customize toppings if desired.
-- Place orders by filling out the order form.
-- Use the contact form to send messages to the restaurant.
+- **Menu**: Browse the menu to view available pizzas. Place orders by selecting pizzas and customizing toppings.
+- **Reservation**: Reserve tables by providing your contact details and preferred date/time.
+- **Job Openings**: View job openings and apply for positions by submitting your resume.
+- **Gallery**: Browse the gallery to view mouth-watering pizza images.
 
 ## Contributing
 
