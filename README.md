@@ -1,6 +1,6 @@
 # IT Pizza Website
 
-This is a simple IT Pizza website project created as a part of [Your Name]'s portfolio. The website allows users to view a menu of pizzas, place orders, and contact the restaurant.
+This is a simple IT Pizza website project created as a part of my portfolio. The website allows users to view a menu of pizzas, place orders, and contact the restaurant.
 
 ## Features
 
@@ -35,9 +35,6 @@ To get a local copy of this project up and running, follow these steps:
 - **Job Openings**: View job openings and apply for positions by submitting your resume.
 - **Gallery**: Browse the gallery to view mouth-watering pizza images.
 
-## Contributing
-
-This project is open for contributions. If you have any suggestions or want to add new features, feel free to fork the repository, make your changes, and submit a pull request.
 
 ## License
 
